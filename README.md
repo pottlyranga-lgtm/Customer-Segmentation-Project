@@ -31,6 +31,3 @@ This project uses the K-Means Clustering algorithm to segment customers based on
 
 ## 🎯 Results
 The project successfully groups customers into meaningful segments, helping businesses understand customer behavior and make data-driven decisions.
-
-## 👨‍💻 Author
-Pottly Ravi
